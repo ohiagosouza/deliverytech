@@ -33,6 +33,6 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 - Profile: development
 
 ## 👨‍💻 Desenvolvedor
-[Seu Nome] - [Sua Turma]
+Hiago Santana Souza - 2602
 Desenvolvido com JDK 21 e Spring Boot 3.2.x
 
